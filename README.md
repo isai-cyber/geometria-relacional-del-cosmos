@@ -5,6 +5,8 @@ Preprint + verificación formal en Lean 4 de un marco especulativo de física te
 **Autor:** Armando Isai Mercado Esquivel
 **Licencia:** CC-BY-4.0 · **Idioma:** Español · **Tipo:** Preprint
 
+*[Read in English](README.en.md)*
+
 ---
 
 ## 1. Qué es esto
@@ -78,7 +80,8 @@ Si algo falla, el punto más frágil probable es la línea `simp [neg]` dentro d
 ├── geometria_relacional_del_cosmos.pdf   # el preprint completo
 ├── codigo_lean/
 │   └── fde_no_explosion.lean             # verificación formal (§4)
-└── README.md                             # este archivo
+├── README.md                             # este archivo
+└── README.en.md                          # versión en inglés
 ```
 
 ## 7. Cómo citar
